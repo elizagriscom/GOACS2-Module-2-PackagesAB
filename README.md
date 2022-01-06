@@ -1,11 +1,10 @@
 # GOACS2 Python Modules and Packages
 
-First, try installing the PyGame Zero package, which we will be using to create some animations in this course module.
-
-## PYTHON MODULES
-
 In this assignment, you will import a **Python package** called `pygamezero` to help you run some sample code.  
-Then, you will write some short programs that show your ability to use code that has been imported from simpler modules.
+  
+You will also create a `main.py` program as described in the Canvas assignment. See the assignment page for additional instructions.
+  
+---
 
 Instructions for importing packages are below. The most important steps are <ins>underlined</ins>.
 
