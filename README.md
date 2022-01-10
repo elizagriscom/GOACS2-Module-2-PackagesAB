@@ -18,7 +18,7 @@ Choose `New Terminal` from the menu, or use the shortcut `Ctrl` + `Shift` + \` o
 >     * IF THIS DOESN'T WORK - please try upgrading pip using the following command: `pip install --upgrade pip` and try `pip install pgzero` again.
 > 3. Choose your Interpreter
 >     * If VS Code still doesn't recognize the import pgzrun code at the top of the program, we will have to determine which interpreter has Pygame Zero installed.
->     * At the bottom of VS Code is a version of Python. Click on this, then choose the version of Python interpreter where the package was installed. You'll know you've chosen the right one when VS Code recognizes the pgzrun module.
+>     * <ins>At the bottom of VS Code is a version of Python. Click on this, then choose the version of Python interpreter where the package was installed.</ins> You'll know you've chosen the right one when VS Code recognizes the pgzrun module.
 > 4. Run the program
 >     * Select the `pgzerosample.py` file in the explorer
 >         * If you don't see the file list, click on the icon on the top left of the window
